@@ -1,0 +1,240 @@
+@charset "utf-8";
+body {
+	
+	margin:0px;
+	padding:0px;
+}
+ 
+.clear{
+	display:block;
+	clear:both;
+}
+
+.wrapAll{
+	width:1024px;
+	margin:auto;
+	background-color:#FC9;
+}
+.header{
+	width:1024px;
+	height:173px;
+	background-color:#110000;
+}
+.logo{
+	float:left;
+	margin:0px 0px 0px 0px;
+    padding:8px 0px 0px 32px;
+}
+.mLinks{
+	float:right;	
+}
+
+.mLinks ul{
+	margin:0px 0px 0px 0px;
+	padding:129px 35px 0px 0px;
+} 
+.mLinks li{
+	display:inline;
+	font-family:Tahoma, Geneva, sans-serif;
+	list-style:none;
+	font-weight:normal;
+	font-size:16px;
+	color:#ff7600;
+}
+
+.mLinks ul li a{
+	border-left:1px solid;
+	color:#ff7600;
+	text-decoration:none;
+	padding:0px 10px 0px 10px ;
+}
+
+.mLinks ul li a:hover{
+	color:#dbdbdb;
+	text-decoration:underline;
+}
+
+.bg1{
+	width:1024px;
+	height:362px;
+	background-image:url(../images/bg1.gif);
+}
+
+.temple{
+	magin:0px 0px ;
+	padding: 17px 17px;
+}
+
+.wrapAll2{
+	width:200px;
+	height:693px;
+	margin:30px 17px;
+	padding:0px 0px;
+	background-color:#e9e9e9;
+}
+/*@@@@@@@@@@@@@@@@@@@@@@*/
+/*       Punjab         */
+/*@@@@@@@@@@@@@@@@@@@@@@*/
+.headbar1{
+	width:201px;
+	height:40px;
+	background-image:url(../images/bar.gif);
+	
+	
+	
+}
+.punjab{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:20px;
+	font-style:normal;
+	font-weight:bold;
+	color:#FFF;
+	padding:8px 18px;
+	margin:0px 0px;
+	
+	
+}
+
+.navlinks{
+	float:left;
+}
+
+.navlinks ul{
+	margin:0px 0px;
+	padding:12px 22px;
+}
+
+.navlinks ul li{
+	padding:3px 0px;
+	list-style:none;
+	font-size:16px;
+	font-weight:normal;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#110000;
+}
+
+
+.navlinks ul li a{
+	text-decoration:none;
+	color:#110000;
+	
+}
+
+
+.navlinks ul li a:hover{
+	color:#110000;
+	text-decoration:underline;
+}
+
+/*@@@@@@@@@@@@@@@@@@@@@@*/
+/*    Tourisam info     */
+/*@@@@@@@@@@@@@@@@@@@@@@*/
+
+
+.headbar2{
+	float:left;
+	width:201px;
+	height:40px;
+	background-image:url(../images/bar.gif);
+}
+	
+.tourisam{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:20px;
+	font-style:normal;
+	font-weight:bold;
+	color:#FFF;
+	padding:8px 18px;
+	margin:0px 0px;
+	
+}
+.navlinks2{
+	float:left;
+}
+
+.navlinks2 ul{
+	margin:0px 0px;
+	padding:12px 22px;
+}
+
+.navlinks2 ul li{
+	padding:3px 0px;
+	list-style:none;
+	font-size:16px;
+	font-weight:normal;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#110000;
+}
+
+
+.navlinks2 ul li a{
+	text-decoration:none;
+	color:#110000;
+	
+}
+
+
+.navlinks2 ul li a:hover{
+	color:#110000;
+	text-decoration:underline;
+}
+
+
+.headbar3{
+	float:left;
+	width:201px;
+	height:40px;
+	background-image:url(../images/bar.gif);
+}
+.what{
+	
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:20px;
+	font-style:normal;
+	font-weight:bold;
+	color:#FFF;
+	padding:8px 18px;
+	margin:0px 0px;
+}
+.navlinks3{
+	float:left;
+}
+
+.navlinks3 ul{
+	margin:0px 0px;
+	padding:12px 22px;
+}
+
+.navlinks3 ul li{
+	padding:3px 0px;
+	list-style:none;
+	font-size:16px;
+	font-weight:normal;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#110000;
+}
+
+
+.navlinks3 ul li a{
+	text-decoration:none;
+	color:#110000;
+	
+}
+
+
+.navlinks3 ul li a:hover{
+	color:#110000;
+	text-decoration:underline;
+}
+
+.wrapAll3{
+	width:486px;
+	height:693px;
+
+	float:left;
+}
+
+
+
+
+
